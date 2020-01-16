@@ -10,7 +10,7 @@
 
 ## Step3
 设置数据库链接
-![image](https://github.com/Nullrable/Code-Generator/blob/master/docs/step1.jpg=150x60)
+![image](https://github.com/Nullrable/Code-Generator/blob/master/docs/step1.jpg)
 
 ## Step4
 设置相应包名路径
