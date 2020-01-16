@@ -1,6 +1,6 @@
 # 模板代码生成器
 
-通过FreeMarker实现代码自动生成
+通过FreeMarker实现代码自动生成，点击<a href="https://github.com/Nullrable/Code-Generator/blob/master/DataGenerator.zip" target="_blank">DataGenerator.zip</a>下载
 
 ## Step1
 下载 DataGenerator.zip 并解压
@@ -10,7 +10,7 @@
 
 ## Step3
 设置数据库链接
-![image](https://github.com/Nullrable/Code-Generator/blob/master/docs/step1.jpg)
+![image](https://github.com/Nullrable/Code-Generator/blob/master/docs/step1.jpg=150x60)
 
 ## Step4
 设置相应包名路径
