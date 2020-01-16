@@ -10,16 +10,16 @@
 
 ## Step3
 设置数据库链接
-![image](https://github.com/Nullrable/Code-Generator/blob/master/step1.jpg)
+![image](https://github.com/Nullrable/Code-Generator/blob/master/docs/step1.jpg)
 
 ## Step4
 设置相应包名路径
-![image](https://github.com/Nullrable/Code-Generator/blob/master/step2.jpg)
+![image](https://github.com/Nullrable/Code-Generator/blob/master/docs/step2.jpg)
 
 ## Step5
 设置符合自己开发环境的模板格式，这里通过FreeMarker模板引擎实现
-![image](https://github.com/Nullrable/Code-Generator/blob/master/step3.jpg)
+![image](https://github.com/Nullrable/Code-Generator/blob/master/docs/step3.jpg)
 
 ## Step6
 设置自己想要生成的表名，执行完成
-![image](https://github.com/Nullrable/Code-Generator/blob/master/step4.jpg)
+![image](https://github.com/Nullrable/Code-Generator/blob/master/docs/step4.jpg)
