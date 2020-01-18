@@ -29,10 +29,16 @@ public class FileService {
         //获取类包名
         PackageConfig packageConfig = AppContext.PACKAGE_CONFIG_SERVICE.read();
 
+        //获取作者
+        String author = AppContext.AUTHOR_SERVICE.read();
+        if(author == null){
+            author = "";
+        }
+
         Map map = new HashMap();
         map.put("fileName", entity.getEntityName());
         map.put("table", entity);
-        map.put("author", "nhsoft.lsd");
+        map.put("author", author);
 
         for (Template template : Template.values()) {
             if (StringUtils.isEmpty(packageConfig.getPackage(template))) {

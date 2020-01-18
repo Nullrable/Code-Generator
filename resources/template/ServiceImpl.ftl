@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 
 /**
 *
-* 描述: ${(table.comment)!}
+* describe: ${(table.comment)!}
 * author: ${author}
 * date: ${date}
 */

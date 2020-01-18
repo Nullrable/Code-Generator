@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
 *
-* 描述: ${(table.comment)!}
+* describe: ${(table.comment)!}
 * author: ${author}
 * date: ${date}
 */

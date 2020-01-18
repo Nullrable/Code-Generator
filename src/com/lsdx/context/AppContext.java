@@ -23,4 +23,6 @@ public class AppContext {
     public static final TemplateService TEMPLATE_SERVICE = new TemplateService();
 
     public static final PackageConfigService PACKAGE_CONFIG_SERVICE = new PackageConfigService();
+
+    public static final AuthorService AUTHOR_SERVICE = new AuthorService();
 }

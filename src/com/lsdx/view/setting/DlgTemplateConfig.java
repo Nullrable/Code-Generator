@@ -2,7 +2,6 @@ package com.lsdx.view.setting;
 
 import com.lsdx.context.AppContext;
 import com.lsdx.data.Template;
-import com.lsdx.service.TemplateService;
 import com.lsdx.view.widget.LabelFiled;
 import com.lsdx.view.widget.Window;
 import javafx.application.Platform;
@@ -27,9 +26,6 @@ import org.fxmisc.richtext.LineNumberFactory;
 import org.fxmisc.richtext.model.StyleSpans;
 import org.fxmisc.richtext.model.StyleSpansBuilder;
 import org.reactfx.Subscription;
-
-import java.io.File;
-import java.net.URL;
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Collection;

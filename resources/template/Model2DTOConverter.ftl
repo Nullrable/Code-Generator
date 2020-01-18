@@ -6,7 +6,7 @@ import org.springframework.cglib.beans.BeanCopier;
 
 /**
 *
-* 描述: ${(table.comment)!}
+* describe: ${(table.comment)!}
 * author: ${author}
 * date: ${date}
 */

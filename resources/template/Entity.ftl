@@ -3,8 +3,8 @@ package ${EntityPackage};
 import java.io.Serializable;
 
 /**
-* 333
-* 描述: ${(table.comment)!}
+*
+* describe: ${(table.comment)!}
 * author: ${author}
 * date: ${date}
 */

@@ -2,6 +2,7 @@ package com.lsdx.view.entry;
 
 import com.lsdx.context.AppContext;
 import com.lsdx.data.Template;
+import com.lsdx.view.setting.DlgAuthor;
 import com.lsdx.view.setting.DlgPackageConfig;
 import com.lsdx.view.setting.DlgDatasourceSetting;
 import com.lsdx.view.setting.DlgTemplateConfig;
@@ -76,6 +77,13 @@ public class FmeMain extends BorderPane {
 
             DlgTemplateConfig dlgTemplateConfig = new DlgTemplateConfig();
             dlgTemplateConfig.show();
+        });
+
+        itemAuthorConfig.setOnAction(event -> {
+
+            DlgAuthor dlgAuthor = new DlgAuthor();
+            dlgAuthor.show();
+
         });
 
         exitMenuItem.setOnAction(actionEvent -> Platform.exit());
